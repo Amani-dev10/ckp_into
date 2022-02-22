@@ -1,0 +1,49 @@
+nav{
+    background-color:#0082e6;
+    height: 80px;
+    width:100%;
+}
+.logo{
+  color:white;
+  font-size: 35px;
+line-height: 80px;
+padding: 100px;
+font-weight: bold;
+}
+nav ul{
+  float:right;
+  margin-right: 20px;
+
+}
+nav ul li{
+  display: inline-block; 
+  line-height: 80px; 
+  margin: 5px;
+}
+nav ul li a{
+  color:white;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+text-transform: uppercase;
+}
+body{
+  font-family: Roboto;
+
+  margin-top: 20px;
+  margin-bottom: 30px;
+  
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-digital-technology-electronic-lock-electronic-security-background-image_131755.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+h1{
+  color: red;
+  font-family: roboto;
+  text-align: left;
+}
+p{
+
+}
